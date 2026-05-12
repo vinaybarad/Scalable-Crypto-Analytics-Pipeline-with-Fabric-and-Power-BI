@@ -107,6 +107,6 @@ The objective of this project was to build a scalable and automated cryptocurren
 
 ![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/abf3a0db75b119be2127d0a8afb67d69d1f9e145/IMG-20260512-WA0002.jpg)
 ![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/ecdf45205423e27f4f1741635a4a8dee7e4d0d67/IMG-20260512-WA0009.jpg)
-![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/abf3a0db75b119be2127d0a8afb67d69d1f9e145/IMG-20260512-WA0002.jpg)
+![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/600c6612c5384743b3d1350e1bece6611c661e11/IMG-20260512-WA0007.jpg)
 ![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/abf3a0db75b119be2127d0a8afb67d69d1f9e145/IMG-20260512-WA0002.jpg)
 ![Image Alt](https://github.com/vinaybarad/Scalable-Crypto-Analytics-Pipeline-with-Fabric-and-Power-BI/blob/abf3a0db75b119be2127d0a8afb67d69d1f9e145/IMG-20260512-WA0002.jpg)
