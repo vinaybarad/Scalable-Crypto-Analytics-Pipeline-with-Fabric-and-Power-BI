@@ -1,10 +1,10 @@
-**Scalable Crypto Analytics Pipeline with Microsoft Fabric and Power BI
-**
+**Scalable Crypto Analytics Pipeline with Microsoft Fabric and Power BI**
+
 
 Designed and developed an end-to-end Scalable Crypto Analytics Pipeline using Microsoft Fabric, Power BI, and Power Automate to automate cryptocurrency data ingestion, transformation, storage, monitoring, and visualization. The project focused on building a modern cloud-based analytics architecture capable of handling automated data refreshes, centralized storage, real-time reporting, and failure notifications.
 
-**
-Project Overview :**
+
+**Project Overview :**
 
 The project involved extracting real-time cryptocurrency market data from external APIs such as the CoinGecko API
  and building a complete data analytics workflow using Microsoft Fabric. The pipeline automates data ingestion, stores processed data in a centralized Data Warehouse, creates semantic models for business reporting, and visualizes insights through interactive Power BI dashboards published to Power BI Service.
