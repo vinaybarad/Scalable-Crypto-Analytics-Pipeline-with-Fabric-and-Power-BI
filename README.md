@@ -104,3 +104,5 @@ Microsoft Fabric, Power BI, Power Automate, Data Engineering, ETL Pipelines, Dat
 The objective of this project was to build a scalable and automated cryptocurrency analytics platform capable of extracting real-time market data, processing and storing large datasets efficiently, and delivering actionable business insights through cloud-based dashboards, automated refresh workflows, and intelligent monitoring systems.
 
 The objective of this project was to build a scalable and automated cryptocurrency analytics platform capable of extracting real-time market data, processing and storing large datasets efficiently, and delivering actionable business insights through cloud-based dashboards, automated refresh workflows, and intelligent monitoring systems.
+
+![Image Alt](image_url)
